@@ -106,7 +106,7 @@ Once you have Node.js, npm, and Git installed, follow these steps:
 Copy the project from Bitbucket to your computer:
 
 ```bash
-git clone https://bitbucket.org/web3_devs/apom_dapp.git
+git clone https://bitbucket.org/web3space02/apom_dapp.git
 ```
 
 Move into the project folder:
